@@ -16,3 +16,5 @@ make easier with PHP without framework and learn about concept.
   - field with name id and title
  
 ## Database created by MySQL
+Mysql with PHP 8 version
+
