@@ -16,9 +16,7 @@
     <h1 class="text-center my-3 py-3">
       Selamat Datang pada To-Do-List App Sederhana
     </h1>
-    <h1>COba Suhu</h1>
-    <h2>Master</h2>
-    <h3>BANget woi</h3>
+    <!-- Event just CRUD -->
 
     <div class="w-50 m-auto col-5">
       <form method="POST" action="proses/data.php" autocomplete="off">
